@@ -69,7 +69,7 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Nome Completo** - _Especialidade_ - [@nickname](seutwitter)
+- **João Victor Louzada** - _Software Engineer_ - [@uailouzin](https://twitter.com/uailouzin)
 
 ---
 
