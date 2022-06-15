@@ -9,13 +9,13 @@
 <!-- Title -->
 
 <p align="center">
-  <h2 align="center">NodeJs4Noobs</h2>
+  <h2 align="center">Node4Noobs</h2>
 
-  <h1 align="center"><img src=".github/logo.svg" alt="Imagem da logomarca do NodeJS, um runtime JavaScript" width="120"></h1>
+  <h1 align="center"><img style="background-color:#262626; padding: 30px;border-radius: 10px;"src=".github/logo.svg" alt="Imagem da logomarca do NodeJS, um runtime JavaScript" width="120"></h1>
   
   <p align="center">
     <br />
-    <a href="https://nodejs.org/en/docs/"><strong>Explore a documentação »</strong></a>
+    <a target="_blank" href="https://nodejs.org/en/docs/"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
     <a href="https://github.com/louzada01/node4noobs/issues">Report Bug</a>
@@ -41,6 +41,12 @@ Esse projeto do 4noobs tem como foco explicar mais sobre o Node.js e encaminhar 
 <!-- ROADMAP OF PROJECT -->
 
 ## ROADMAP
+
+### Introdução
+
+- [O que é o Node.js?](/Content/1-Intro/Intro.md)
+
+### More topics
 
 - [Conteúdo 1](link-primeira-parte)
 - [Conteúdo 2](link-segunda-parte)
