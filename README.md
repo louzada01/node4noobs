@@ -28,7 +28,15 @@
 
 ## Sobre o Projeto
 
-Explique um pouco sobre o 4noobs que está desenvolvendo.
+Node.js é um `runtime` que se propõem a executar JavaScript (ECMA Script) do lado do servidor, proporcionando desenvolver aplicações Server-Side(Back-End) com a linguagem. 
+
+```
+OBS: Node.js não interpreta TypeScript, apenas JavaScript.
+```
+
+A solução foi criada por Ryan Dahl(1981), em 2009. É um software de código aberto baseado no V8 do Chrome, criado pela Google (mesmo motor responsavél por executar o navegador Google Chrome). 
+
+Esse projeto do 4noobs tem como foco explicar mais sobre o Node.js e encaminhar novos pessoas desenvolvedoras a iniciar sua jornada profissional com a ferramenta. 
 
 <!-- ROADMAP OF PROJECT -->
 
