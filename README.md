@@ -11,22 +11,23 @@
 <p align="center">
   <h2 align="center">NodeJs4Noobs</h2>
 
-  <h1 align="center"><img src=".github/logo.svg" alt="Imagem da linguagem" width="120"></h1>
+  <h1 align="center"><img src=".github/logo.svg" alt="Imagem da logomarca do NodeJS, um runtime JavaScript" width="120"></h1>
   
   <p align="center">
     <br />
-    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
+    <a href="https://nodejs.org/en/docs/"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
-    <a href="link-para-abrir-issue">Report Bug</a>
+    <a href="https://github.com/louzada01/node4noobs/issues">Report Bug</a>
     ·
-    <a href="link-para-abrir-issue">Request Feature</a>
+    <a href="https://github.com/louzada01/node4noobs/issues">Request Feature</a>
   </p>
 </p>
     
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
+
 Explique um pouco sobre o 4noobs que está desenvolvendo.
 
 <!-- ROADMAP OF PROJECT -->
