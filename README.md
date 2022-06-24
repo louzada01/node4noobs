@@ -59,8 +59,10 @@ Esse projeto do 4noobs tem como foco explicar mais sobre o Node.js e encaminhar 
  
 ### Node.js e Serveless
 - [Core do Node.js](/) ☑️
-
 ### Node.js Avançado
+```
+(Não dar prioridade para desenvolver esse tópico no momento)
+```
 - [Core do Node.js](/) ☑️
   - [Event Loop](/) ☑️
   - [Module Cluster](/) ☑️
